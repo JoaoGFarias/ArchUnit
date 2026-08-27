@@ -15,3 +15,6 @@ _site
 .asciidoctor
 verification-results
 .java-version
+.claude/
+CLAUDE.md
+.DS_Store
